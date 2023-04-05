@@ -4,7 +4,7 @@
 
 # I am a Full Stack developer 
 
-- 🔭 I worked for [Heart it out](hearitout.in) as a frontend developer 
+- 🔭 I worked for [Heart it out](https://heartitout.in/) as a frontend developer 
 - 🌱 I’m currently learning **Docker** and **Kubernetes**
 - 👯 I’m looking to collaborate on [my Chatbot project](https://github.com/HanikJain/chatbot/)
 - 💬 Ask me about **ReactJs**, **Nodejs** and **Javascript**
