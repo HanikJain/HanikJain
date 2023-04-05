@@ -2,7 +2,7 @@
 
 
 
-# Here are some ideas to get you started:
+# I am a Full Stack developer 
 
 - 🔭 I worked for [Heart it out](hearitout.in) as a frontend developer 
 - 🌱 I’m currently learning **Docker** and **Kubernetes**
