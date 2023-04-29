@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [my Chatbot project](https://github.com/HanikJain/chatbot/)
 - 💬 Ask me about **ReactJs**, **Nodejs** and **Javascript**
 - 📫 How to reach me: hanikjain333@gmail.com 
-- :globe_with_meridians: Check out some of my interesting projects like [Chatbot](https://github.com/HanikJain/chatbot/), [Meal Monkey](https://github.com/HanikJain/food-ordering-website), [Weather prediction app](https://github.com/HanikJain/Weather-App)
+- :globe_with_meridians: Check out some of my interesting projects like [Chatbot](https://github.com/HanikJain/chatbot/), [Netflix Clone](https://netflix-myapp.vercel.app), [Meal Monkey](https://github.com/HanikJain/food-ordering-website)
 
 
 
