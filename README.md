@@ -2,7 +2,7 @@
 
 
 
-# I am a Full Stack developer 
+# I am a Frontend developer 
 
 - 🔭 I worked for [Heart it out](https://heartitout.in/) as a frontend developer 
 - 🌱 I’m currently learning **Docker** and **Kubernetes**
