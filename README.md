@@ -2,9 +2,9 @@
 
 
 
-# I am a Full Stack developer 
+# I am a Frontend developer 
 
-- 🔭 I am currently working for [Wysa](https://wysa.com/) as a frontend developer 
+- 🔭 I am currently working for [Wysa](https://wysa.com/) as a Frontend developer 
 - 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on [my Chatbot project](https://github.com/HanikJain/chatbot/)
 - 💬 Ask me about **ReactJs**, **Nodejs** and **Javascript**
