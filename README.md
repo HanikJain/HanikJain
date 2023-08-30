@@ -2,7 +2,7 @@
 
 
 
-# I am a Frontend developer 
+# I am a Full Stack developer 
 
 - 🔭 I am currently working for [Wysa](https://wysa.com/) as a Frontend developer 
 - 🌱 I’m currently learning **AWS**
