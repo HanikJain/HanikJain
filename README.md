@@ -11,7 +11,7 @@
 - :globe_with_meridians: Check out some of my interesting projects like [Chatbot](https://github.com/HanikJain/chatbot/), [Netflix Clone](https://github.com/HanikJain/netflix-clone), [Meal Monkey](https://github.com/HanikJain/food-ordering-website)
   
 # Resume
-- 🎓 My [Resume](https://drive.google.com/file/d/1eaBRoTdLiLeINQy4lj7PqA0pvOUBzzQI/view)
+- 🎓 My [Resume](https://drive.google.com/file/d/1f0hsmMr5Uba9XonULXzOQozU4qe6HkHM/view)
 
 
 
